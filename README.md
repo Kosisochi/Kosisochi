@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kosisochi
-- 👀 I’m interested in Data Science, Data Analysis, Natural Language Processing, Machine Learning
-- 🌱 I’m currently learning to use SQL for data wrangling
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Data Analysis, Natural Language Processing, Machine Learning, Buisness Intelligence & Artificial Intelligence
 - 📫 How to reach me kosimadukwe@gmail.com
 
 <!---
